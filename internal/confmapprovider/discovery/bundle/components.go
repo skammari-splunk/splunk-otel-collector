@@ -36,6 +36,7 @@ var (
 		"mysql",
 		"oracledb",
 		"postgresql",
+		"rabbitmq",
 		"redis",
 		"smartagent-collectd-mysql",
 		"smartagent-collectd-nginx",
@@ -68,6 +69,7 @@ var (
 				"mysql":                 {},
 				"oracledb":              {},
 				"postgresql":            {},
+				"rabbitmq":              {},
 				"redis":                 {},
 				"smartagent-postgresql": {},
 			}
